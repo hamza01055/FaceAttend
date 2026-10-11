@@ -1,0 +1,7 @@
+# OpenCV 4.10: YuNet face detector + the DNN module that runs the bundled
+# ArcFace model. Pinned because newer major versions change APIs.
+opencv-python==4.10.0.84
+numpy>=1.24,<2.3
+Pillow>=10.0
+# Modern UI toolkit (rounded widgets, light/dark mode) on top of Tkinter
+customtkinter==5.2.2
